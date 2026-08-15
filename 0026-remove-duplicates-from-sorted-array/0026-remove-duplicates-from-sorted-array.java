@@ -7,7 +7,6 @@ class Solution {
                 nums[k]=nums[i];
             }
         }
-
         int unique = k+1;
         return unique;
     }
