@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
+| [0319-bulb-switcher](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
