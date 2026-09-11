@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Counting
