@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0319-bulb-switcher](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
