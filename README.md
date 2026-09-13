@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1470-shuffle-the-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
