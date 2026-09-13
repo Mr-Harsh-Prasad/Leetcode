@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3668-restore-finishing-order](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
