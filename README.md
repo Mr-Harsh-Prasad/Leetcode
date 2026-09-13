@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
