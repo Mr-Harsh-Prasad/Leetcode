@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3668-restore-finishing-order](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3668-restore-finishing-order](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
