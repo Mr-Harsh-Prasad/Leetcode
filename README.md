@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [0458-poor-pigs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0458-poor-pigs) |
+| [0780-reaching-points](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0780-reaching-points) |
 | [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -193,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0458-poor-pigs) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
