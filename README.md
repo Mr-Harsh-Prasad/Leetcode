@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Counting
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
