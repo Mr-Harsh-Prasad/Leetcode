@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
 | [0458-poor-pigs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0458-poor-pigs) |
+| [0633-sum-of-square-numbers](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0780-reaching-points) |
 | [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0875-koko-eating-bananas) |
