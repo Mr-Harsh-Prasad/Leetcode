@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
