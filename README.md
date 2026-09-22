@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -219,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
