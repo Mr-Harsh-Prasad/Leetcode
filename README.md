@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
