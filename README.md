@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0458-poor-pigs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0458-poor-pigs) |
 ## Memoization
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0077-combinations) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
