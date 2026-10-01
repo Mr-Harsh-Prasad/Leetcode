@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
