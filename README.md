@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mr-Harsh-Prasad/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Floyd's Cycle Finding Algorithm
